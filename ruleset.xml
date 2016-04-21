@@ -12,12 +12,12 @@
     <rule ref="Generic.Formatting.SpaceAfterCast"/>
     <rule ref="Generic.Functions.OpeningFunctionBraceBsdAllman"/>
     <rule ref="Generic.NamingConventions.ConstructorName"/>
-    <rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
+    <rule ref="Generic.NamingConventions.LowerCaseConstantName"/>
     <rule ref="Generic.NamingConventions.CamelCapsFunctionName"/>
     <rule ref="Generic.PHP.DeprecatedFunctions"/>
     <rule ref="Generic.PHP.ForbiddenFunctions"/>
     <rule ref="Generic.PHP.NoSilencedErrors"/>
-    <rule ref="Generic.PHP.UpperCaseConstant"/>
+    <rule ref="Generic.PHP.LowerCaseConstant"/>
     <rule ref="Generic.Strings.UnnecessaryStringConcat"/>
     <rule ref="Generic.WhiteSpace.DisallowTabIndent"/>
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
